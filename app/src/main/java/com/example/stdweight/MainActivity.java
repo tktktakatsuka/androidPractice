@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         showNextQuiz();
     }
-
+//
     public void showNextQuiz() {
         // クイズカウントラベルを更新
         countLabel.setText(getString(R.string.count_label, quizCount));
