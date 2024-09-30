@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Standard Weight</string>
+
+    <string name="heightText">Your Height</string>
+    <string name="calcBtn">Calc</string>
+    <string name="WeightText">Calculate Standard Weight</string>
+    <string name="stdWeight">Standard Weight:</string>
+    <string name="errorMsg">Enter Number</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- クイズ画面 -->
+    <string name="question_label">問題文</string>
+    <string name="count_label">Q%d</string>
+    <string name="btn_answer">選択肢</string>
+
+    <!-- 結果画面 -->
+    <string name="result_title">結果</string>
+    <string name="result_score">5問中%d問正解</string>
+    <string name="result_total_score">トータルスコア : %d</string>
+    <string name="btn_return">もどる</string>
+</resources>
